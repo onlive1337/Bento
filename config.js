@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '5eca39f50b5d92d9cef12570ca408502', // Write here your API Key
+	weatherKey: '0cb43c9d480ed10cdfcc54018056599e', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'me',
+			icon: 'heart',
+			link: 'https://onlive.is-a.dev/',
 		},
 		{
 			id: '6',
