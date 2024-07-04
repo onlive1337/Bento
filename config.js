@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '41.311081',
+	defaultLongitude: '69.240562',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://www.twitch.tv/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Steam',
+			icon: 'gamepad-2',
+			link: 'https://store.steampowered.com/',
 		},
 	],
 
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.yandex.ru/home',
 		},
 		{
 			id: '2',
@@ -104,15 +104,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
+			name: 'ChatGPT',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'MonkeyType',
+			icon: 'type',
+			link: 'https://monkeytype.com/',
 		},
 		{
 			id: '5',
